@@ -12,18 +12,11 @@ A Socket.io Chat Example Using TypeScript
 
 This repository contains server & client side code using `TypeScript` language
 
-## Blog Post
-Read the blog post with details about this project: [Real Time Apps with TypeScript: Integrating Web Sockets, Node & Angular](https://medium.com/dailyjs/real-time-apps-with-typescript-integrating-web-sockets-node-angular-e2b57cbd1ec1) 
-
-## Live Demo
-Try live demo: [https://typescript-chat.firebaseapp.com](https://typescript-chat.firebaseapp.com)
 
 # Support this project
 - Star GitHub repository :star:
 - Create pull requests, submit bugs or suggest new features
-- Follow updates on [Twitter](https://twitter.com/luixaviles) or [Github](https://github.com/luixaviles)
 
-![](https://luixaviles.com/assets/images/posts/typescript-chat/typescript-chat.gif?raw=true)
 
 # Running Server and Client locally
 ## Prerequisites
@@ -41,8 +34,8 @@ After that, use `Git bash` to run all commands if you are on Windows platform.
 In order to start the project use:
 
 ```bash
-$ git clone https://github.com/luixaviles/socket-io-typescript-chat.git
-$ cd socket-io-typescript-chat
+$ git clone https://github.com/DanielRibeiroPGMotta/InstantChat
+$ cd InstantChat
 ```
 
 ## Run Server
@@ -75,17 +68,12 @@ Now open your browser in following URL: [http://localhost:4200](http://localhost
 
 # Server Deployment
 
-Take a look the [Wiki Page](https://github.com/luixaviles/socket-io-typescript-chat/wiki) for more details about deploying on `Heroku` and `Zeit.co`.
+Take a look the [Wiki Page](https://github.com/DanielRibeiroPGMotta/InstantChat/wiki) for more details about deploying on `Heroku` and `Zeit.co`.
 
 Feel free to update that page and Readme if you add any other platform for deployment!
 
 # Forks
 The Open Source community is awesome! If you're working in a fork with other tech stack, please add the reference of your project here:
-
-| Features                                  | Author                        | Status    |
-|-------------------------------------------|-------------------------------|-----------|
-| [React + TypeScript + Material-UI client](https://github.com/nilshartmann/socket-io-typescript-chat/tree/react-client/client-react)   | [nilshartmann](https://github.com/nilshartmann)   | In Progress   |
-
 
 # Contribution
 Contributions are greatly appreciated. You can contribute by adding `i18n` support with your language, the testing section or any other feature.
